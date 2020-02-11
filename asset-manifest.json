@@ -1,29 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2625828.chunk.css",
-    "main.js": "/static/js/main.01b68798.chunk.js",
-    "main.js.map": "/static/js/main.01b68798.chunk.js.map",
+    "main.css": "/static/css/main.f2baf4c0.chunk.css",
+    "main.js": "/static/js/main.dd5c125c.chunk.js",
+    "main.js.map": "/static/js/main.dd5c125c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.91ccb4b6.js",
     "runtime-main.js.map": "/static/js/runtime-main.91ccb4b6.js.map",
-    "static/js/2.a0cd3447.chunk.js": "/static/js/2.a0cd3447.chunk.js",
-    "static/js/2.a0cd3447.chunk.js.map": "/static/js/2.a0cd3447.chunk.js.map",
+    "static/js/2.c1a0bfbc.chunk.js": "/static/js/2.c1a0bfbc.chunk.js",
+    "static/js/2.c1a0bfbc.chunk.js.map": "/static/js/2.c1a0bfbc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.83da5b4fa7a50ca8a2b513e0da7f303e.js": "/precache-manifest.83da5b4fa7a50ca8a2b513e0da7f303e.js",
+    "precache-manifest.b518a4a44bee99dd2983a7b049c0312f.js": "/precache-manifest.b518a4a44bee99dd2983a7b049c0312f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c2625828.chunk.css.map": "/static/css/main.c2625828.chunk.css.map",
-    "static/js/2.a0cd3447.chunk.js.LICENSE": "/static/js/2.a0cd3447.chunk.js.LICENSE",
+    "static/css/main.f2baf4c0.chunk.css.map": "/static/css/main.f2baf4c0.chunk.css.map",
+    "static/js/2.c1a0bfbc.chunk.js.LICENSE": "/static/js/2.c1a0bfbc.chunk.js.LICENSE",
     "static/media/Logopng.png": "/static/media/Logopng.340a572b.png",
+    "static/media/clock.png": "/static/media/clock.935ef2c0.png",
+    "static/media/footerLogo.png": "/static/media/footerLogo.9a787ff3.png",
     "static/media/metin2wp1edit.png": "/static/media/metin2wp1edit.84b7e697.png",
     "static/media/metin2wp2edit.png": "/static/media/metin2wp2edit.3fe48d07.png",
     "static/media/metin2wp3edit.png": "/static/media/metin2wp3edit.cffd1ad9.png",
     "static/media/metin2wp4edit.png": "/static/media/metin2wp4edit.3b5583e5.png",
+    "static/media/piggy.png": "/static/media/piggy.4fb5e61e.png",
     "static/media/App.css": "/static/media/siteBackgroundMobile.63208192.jpg",
+    "static/media/ppLogo.png": "/static/media/ppLogo.f732c0e3.png",
+    "static/media/shield.png": "/static/media/shield.d7bc6183.png",
+    "static/media/skrillLogo.png": "/static/media/skrillLogo.b1830165.png",
+    "static/media/skypeLogo.png": "/static/media/skypeLogo.b62c94c8.png",
     "static/media/star_iconv25.png": "/static/media/star_iconv25.986ebafd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.91ccb4b6.js",
-    "static/js/2.a0cd3447.chunk.js",
-    "static/css/main.c2625828.chunk.css",
-    "static/js/main.01b68798.chunk.js"
+    "static/js/2.c1a0bfbc.chunk.js",
+    "static/css/main.f2baf4c0.chunk.css",
+    "static/js/main.dd5c125c.chunk.js"
   ]
 }
