@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f26c9a5.chunk.css",
-    "main.js": "/static/js/main.41ca5ab9.chunk.js",
-    "main.js.map": "/static/js/main.41ca5ab9.chunk.js.map",
+    "main.css": "/static/css/main.af548445.chunk.css",
+    "main.js": "/static/js/main.17732d79.chunk.js",
+    "main.js.map": "/static/js/main.17732d79.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.91ccb4b6.js",
     "runtime-main.js.map": "/static/js/runtime-main.91ccb4b6.js.map",
-    "static/js/2.5f5fc7c0.chunk.js": "/static/js/2.5f5fc7c0.chunk.js",
-    "static/js/2.5f5fc7c0.chunk.js.map": "/static/js/2.5f5fc7c0.chunk.js.map",
+    "static/js/2.8e58ee6a.chunk.js": "/static/js/2.8e58ee6a.chunk.js",
+    "static/js/2.8e58ee6a.chunk.js.map": "/static/js/2.8e58ee6a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a2e7d344c70d44ee7cbeb3a8b0cb263d.js": "/precache-manifest.a2e7d344c70d44ee7cbeb3a8b0cb263d.js",
+    "precache-manifest.89a0f57e7201c0345bd263f29d13fa51.js": "/precache-manifest.89a0f57e7201c0345bd263f29d13fa51.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0f26c9a5.chunk.css.map": "/static/css/main.0f26c9a5.chunk.css.map",
-    "static/js/2.5f5fc7c0.chunk.js.LICENSE": "/static/js/2.5f5fc7c0.chunk.js.LICENSE",
+    "static/css/main.af548445.chunk.css.map": "/static/css/main.af548445.chunk.css.map",
+    "static/js/2.8e58ee6a.chunk.js.LICENSE": "/static/js/2.8e58ee6a.chunk.js.LICENSE",
     "static/media/Logopng.png": "/static/media/Logopng.340a572b.png",
     "static/media/clock.png": "/static/media/clock.935ef2c0.png",
     "static/media/footerLogo.png": "/static/media/footerLogo.9a787ff3.png",
@@ -25,12 +25,13 @@
     "static/media/shield.png": "/static/media/shield.d7bc6183.png",
     "static/media/skrillLogo.png": "/static/media/skrillLogo.b1830165.png",
     "static/media/skypeLogo.png": "/static/media/skypeLogo.b62c94c8.png",
+    "static/media/skypeLogoBright.png": "/static/media/skypeLogoBright.22cff3eb.png",
     "static/media/star_iconv25.png": "/static/media/star_iconv25.986ebafd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.91ccb4b6.js",
-    "static/js/2.5f5fc7c0.chunk.js",
-    "static/css/main.0f26c9a5.chunk.css",
-    "static/js/main.41ca5ab9.chunk.js"
+    "static/js/2.8e58ee6a.chunk.js",
+    "static/css/main.af548445.chunk.css",
+    "static/js/main.17732d79.chunk.js"
   ]
 }

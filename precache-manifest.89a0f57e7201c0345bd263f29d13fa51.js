@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30528bfbb97e3adadce02c93cc3aec7b",
+    "revision": "81bbfafb97f72adfc30c7d02bee46d6e",
     "url": "/index.html"
   },
   {
-    "revision": "2f42cf1705fa7798b1c6",
-    "url": "/static/css/main.0f26c9a5.chunk.css"
+    "revision": "7032b2ab4602023131df",
+    "url": "/static/css/main.af548445.chunk.css"
   },
   {
-    "revision": "b9f66b1c778315761e7c",
-    "url": "/static/js/2.5f5fc7c0.chunk.js"
+    "revision": "9dbe795d856cd69c07a0",
+    "url": "/static/js/2.8e58ee6a.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/static/js/2.5f5fc7c0.chunk.js.LICENSE"
+    "url": "/static/js/2.8e58ee6a.chunk.js.LICENSE"
   },
   {
-    "revision": "2f42cf1705fa7798b1c6",
-    "url": "/static/js/main.41ca5ab9.chunk.js"
+    "revision": "7032b2ab4602023131df",
+    "url": "/static/js/main.17732d79.chunk.js"
   },
   {
     "revision": "d94d9f7d5b6d2d107325",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b62c94c8ee7e75396338749aac5bfc7e",
     "url": "/static/media/skypeLogo.b62c94c8.png"
+  },
+  {
+    "revision": "22cff3eb063ac6e4c57e66fe0c132043",
+    "url": "/static/media/skypeLogoBright.22cff3eb.png"
   },
   {
     "revision": "986ebafdc7efbc8eb4ec935b78886ca2",
