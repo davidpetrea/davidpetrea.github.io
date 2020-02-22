@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad9aae219e775182b53814484cfa7dd2",
+    "revision": "59a25dbb75d3e35d73ef55a033a4f974",
     "url": "/index.html"
   },
   {
-    "revision": "2764b88fa4f8631f7a80",
-    "url": "/static/css/main.465ea36e.chunk.css"
+    "revision": "ae14a599e1a5d57e2049",
+    "url": "/static/css/main.0c5a0e47.chunk.css"
   },
   {
-    "revision": "65b5bd052002cb98e7f1",
-    "url": "/static/js/2.f076c21a.chunk.js"
+    "revision": "b47fa4dcd38d3ce1be7f",
+    "url": "/static/js/2.d7c68048.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/static/js/2.f076c21a.chunk.js.LICENSE"
+    "url": "/static/js/2.d7c68048.chunk.js.LICENSE"
   },
   {
-    "revision": "2764b88fa4f8631f7a80",
-    "url": "/static/js/main.5bbfbcdd.chunk.js"
+    "revision": "ae14a599e1a5d57e2049",
+    "url": "/static/js/main.3da072f2.chunk.js"
   },
   {
     "revision": "d94d9f7d5b6d2d107325",
@@ -36,32 +36,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/footerLogo.9a787ff3.png"
   },
   {
-    "revision": "84b7e697c659a2ff6dba085f82c3b514",
-    "url": "/static/media/metin2wp1edit.84b7e697.png"
+    "revision": "e1b7640811980b62bd7f782afa295b2a",
+    "url": "/static/media/metin2wp1edit.e1b76408.jpg"
   },
   {
-    "revision": "3fe48d07a4431cb29a8d1b2bc759a41c",
-    "url": "/static/media/metin2wp2edit.3fe48d07.png"
+    "revision": "b08b75c0e1cc5857bd61f8cbf3694a74",
+    "url": "/static/media/metin2wp2edit.b08b75c0.jpg"
   },
   {
-    "revision": "cffd1ad9b23014b9dcab94d2e62d92c8",
-    "url": "/static/media/metin2wp3edit.cffd1ad9.png"
+    "revision": "c124ede0240c58c08e4047594c01fbf3",
+    "url": "/static/media/metin2wp3edit.c124ede0.jpg"
   },
   {
-    "revision": "3b5583e5aa7768b4978f115d31fdeaa9",
-    "url": "/static/media/metin2wp4edit.3b5583e5.png"
+    "revision": "92b2d85450ecece9ac5942fbfff67fbd",
+    "url": "/static/media/metin2wp4edit.92b2d854.jpg"
   },
   {
-    "revision": "4fb5e61e4dd1aea2cf47fea43c473075",
-    "url": "/static/media/piggy.4fb5e61e.png"
+    "revision": "e3653cc1ac54bdd09705594a2993c313",
+    "url": "/static/media/metin2wp5edit.e3653cc1.jpg"
   },
   {
     "revision": "40da9a8fc828030a7b8741dd15347c78",
     "url": "/static/media/plugynCasual.40da9a8f.woff"
   },
   {
-    "revision": "f732c0e3be57ea4c0d8e3e7705affaa3",
-    "url": "/static/media/ppLogo.f732c0e3.png"
+    "revision": "1c5519fe85e1a274c462aaafffb6125e",
+    "url": "/static/media/ppLogo.1c5519fe.png"
   },
   {
     "revision": "cbafd9d069d3f98444febd4446ba8a1b",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/siteBackgroundMobile.63208192.jpg"
   },
   {
-    "revision": "b1830165f7d185f693f9c6ddeb5192bb",
-    "url": "/static/media/skrillLogo.b1830165.png"
+    "revision": "651705168e63354b83a3b5260df950f9",
+    "url": "/static/media/skrillLogo.65170516.png"
   },
   {
     "revision": "b62c94c8ee7e75396338749aac5bfc7e",
